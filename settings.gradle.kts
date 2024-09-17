@@ -23,3 +23,5 @@ rootProject.name = "Library-Sample"
 
 include(":app")
 include(":uitoolkit")
+include(":archtoolkit:loggerkit")
+include(":archtoolkit:extensions")
