@@ -19,6 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "library-sample"
+rootProject.name = "Library-Sample"
+
 include(":app")
 include(":uitoolkit")
